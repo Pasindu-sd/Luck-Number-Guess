@@ -29,5 +29,5 @@ while True:
 
     play_again = input("\nDo you want to play again? (y/n): ").lower()
     if play_again != 'y':
-        print("Thanks for playing! Goodbye!")
+        print("Thanks for playing!\n Goodbye!")
         break
